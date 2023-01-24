@@ -27,8 +27,41 @@
   
 ![](https://www.mc-list.xyz/banner/20-30.png "伺服器 在線人數")
 
+---
+### 一些計畫中的事項
 
-Copyright © 2023 DreamCrafter. All rights reserved.
+- [x] 將伺服器升級至 1.19
+
+- [ ] RPG活動釋出 -- 「亙古城址」
+
+- [ ] 聊天室分欄
+
+- [ ] Disord 積分系統 2.0
+
+- [ ] 聊天室助理
+
+- [ ] 客製化附魔
+
+- [ ] 客製化生怪磚
+
+
+---
+### 團隊資訊
+
+
+> 管理員:
+- [捷克](https://github.com/jack444410) jack4444
+- 珍珠 pearlpearlpearl
+
+> 小遊戲團隊:
+- [比例](https://github.com/billyovo) billyovo
+* [死魚](https://github.com/deadfish12) deadfish
+- 智慧果 KnowledgeBerry
+
+---
+
+
+**Copyright © 2023 DreamCrafter. All rights reserved.**
 
 <!--
 ## Hi there 👋
