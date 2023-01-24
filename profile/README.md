@@ -1,3 +1,5 @@
+![](https://imgur.com/QEqklT3.jpg)
+
 ## DreamCrafter 築夢物語 -- 引領夢想前行。
 
 築夢物語 - 綜合長玩伺服器，我們成立於 2015 年。
@@ -25,6 +27,8 @@
   
 ![](https://www.mc-list.xyz/banner/20-30.png "伺服器 在線人數")
 
+
+Copyright © 2023 DreamCrafter. All rights reserved.
 
 <!--
 ## Hi there 👋
