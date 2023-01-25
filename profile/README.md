@@ -55,7 +55,7 @@
 
 > 小遊戲團隊:
 - [比例](https://github.com/billyovo) billyovo
-* [死魚](https://github.com/deadfish12) deadfish
+- [死魚](https://github.com/deadfish12) deadfish
 - 智慧果 KnowledgeBerry
 
 ---
