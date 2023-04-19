@@ -51,7 +51,6 @@
 
 > 管理員:
 - [捷克](https://github.com/jack444410) jack4444
-- 珍珠 pearlpearlpearl
 
 > 小遊戲團隊:
 - [比例](https://github.com/billyovo) billyovo
